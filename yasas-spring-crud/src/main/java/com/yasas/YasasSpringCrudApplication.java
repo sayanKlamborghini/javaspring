@@ -21,11 +21,12 @@ public class YasasSpringCrudApplication {
 		app.setDefaultProperties(Collections.singletonMap("server.servlet.context-path", "/"));
 		app.run(args);
               //App runs third commit
-              // Fourth commit is here 
-	      // Branch feature feature1 commit is here
+              // Fourth commit is here 	          
+              // Branch feature feature1 commit is here
 	      // Branch feature2 commit is here
 	      // Branch feature3 commit is here
-              // Branch feature3 second commit is here            
+              // Branch feature3 second commit is here
+              // Sixth commit master branch
 	}
 
 }
